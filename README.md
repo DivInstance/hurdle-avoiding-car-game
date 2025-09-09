@@ -1,10 +1,8 @@
 # Hurdle-Avoiding-Car-Game
 
-# Hurdle-Avoiding-Car-Game
-
 A simple **Python + Pygame** arcade-style game. The player controls a red car moving left and right to avoid falling blue obstacles on the road. The game ends when the player collides with an obstacle.
 
-[![Here is a preview of the game.](./assets/preview.png)]
+![Preview](./assets/preview.png)
 
 ---
 
