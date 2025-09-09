@@ -18,7 +18,7 @@ OBSTACLE_COLOR = (0, 0, 255)
 WHITE = (255, 255, 255)
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Road Rash Game")
+pygame.display.set_caption("Hurdle Avoiding Car Game")
 
 player_x = (SCREEN_WIDTH - PLAYER_WIDTH) // 2
 player_y = SCREEN_HEIGHT - PLAYER_HEIGHT - 20
